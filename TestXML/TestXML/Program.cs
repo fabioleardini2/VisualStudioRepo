@@ -23,12 +23,6 @@ namespace TestXML
     {
         public static void Main(string[] args)
         {
-            //var x = new Program();
-            //x.XlsToXml();
-            
-            //var r = new Program();
-            //r.ReadXml();
-
             var r = new Program();
             r.DataBaseToXml();
         }
