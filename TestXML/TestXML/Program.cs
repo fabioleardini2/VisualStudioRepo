@@ -32,6 +32,7 @@ namespace TestXML
             r.DataBaseToXml();
         }
 
+        //Comentario 2
         public void XlsToXml()
         {
             string txtConnString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\fabio.leardini\Desktop\Umail - Catálogo de Produtos - Importação - Copy.xlsx;Extended Properties=""Excel 8.0;HDR=No;IMEX=1"";";
